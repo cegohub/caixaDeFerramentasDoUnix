@@ -3,14 +3,13 @@
 `versão 0.5 (alpha)`
 
 > Erros ortográficos poderão ser encontrados nesta versão, mas serão corrigidas ao longo do tempo e na versão beta a ortografia estará OK. Quer contribuir com a evolução do projeto? entre em contato :-)
-
 > tocadotux@gmail.com
 
 ---
 
 [![Vídeo da Divulgação do Manual](https://i.ytimg.com/vi/uk-s6K479UU/0.jpg)](https://www.youtube.com/watch?v=uk-s6K479UU)
 
-## O que é o Caixa de Ferramentas do Unix?
+## O que é o Caixa de Ferramentas do Unix
 
 É uma coleção de comandos __Unix/Linux__ (*de diferentes distribuições*) __/BSD/MacOSX/Solaris__
 e de tarefas que são úteis para o trabalho do profissional de TI ou para usuários avançados.
@@ -30,7 +29,7 @@ Revisado por:
 - [Rumbler Soppa](https://github.com/rumbler)
 - [Gabriel Almir (kewer)](https://github.com/voidyo)
 - [Gabriel Masson](https://github.com/gmasson)
-- [Tiago Alves](https://github.com/cegohub/)
+- [Tiago Amaral](https://github.com/cegohub/)
 - [Kelvin V. Soares](https://github.com/KelvinVenancio)
 - [Frederico Lima](https://github.com/fredericolima) - projeto Fedora
 
